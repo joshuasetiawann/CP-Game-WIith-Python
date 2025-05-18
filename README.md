@@ -133,10 +133,3 @@ If you use this project in your research, please cite this project.
     howpublished = {\url{https://github.com/CharlesPikachu/Games}},
 }
 ```
-
-
-# More
-
-#### WeChat Official Accounts
-*Charles_pikachu*  
-![img](./docs/pikachu.jpg)
